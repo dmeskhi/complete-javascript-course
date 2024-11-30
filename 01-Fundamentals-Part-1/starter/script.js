@@ -1,4 +1,6 @@
-let word = 'amazing';
-if(word === 'amazing') {
-    alert('David, You Got This!');
-}
+let myCountry = "Georgia";
+let myCountryContinent = "Eastern Europe";
+let myCountryPopulation = 3688647;
+ if(myCountry === "Georgia"){
+    alert(myCountry  +  myCountryContinent  +  myCountryPopulation);
+ }
